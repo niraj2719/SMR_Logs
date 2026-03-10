@@ -1,0 +1,5 @@
+{
+  "name": "VoltCAN Pro - EV Charger Diagnostic Suite",
+  "description": "Professional EV charger CAN monitoring and diagnostic application with real-time decoding, reverse engineering, and control capabilities.",
+  "requestFramePermissions": []
+}
